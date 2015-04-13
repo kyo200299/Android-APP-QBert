@@ -1,0 +1,7 @@
+We, Jia-Yu Chang and Goujun Zhang,
+hereby certify that the files we submitted represent our own work, that we did not copy any code from any other person
+or source, and that we did not share our code with any other students.
+
+Version 1.1 - Set up for Classes
+Version 1.2 - Enviromental setting, redball, score, life count, and Q*Bert are added. Q*Bert is able to move
+Final Version - Everything should work.
